@@ -1,0 +1,16 @@
+.container{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#myform{
+    height: 500px;
+    width: 100%;
+    padding-top: 200px;
+    padding-left: 50px;
+    align-items: center;
+}
+
+.from-group{
+    width: 40%;
+}
